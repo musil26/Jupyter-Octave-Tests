@@ -1,3 +1,5 @@
 octave
 gnuplot
 liboctave-dev
+image
+io
