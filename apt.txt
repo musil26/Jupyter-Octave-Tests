@@ -1,2 +1,5 @@
 octave
-
+gnuplot
+liboctave-dev
+octave-io
+octave-image
