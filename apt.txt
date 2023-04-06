@@ -1,4 +1,4 @@
-octave
+xeus-octave
 gnuplot
 liboctave-dev
 octave-io
