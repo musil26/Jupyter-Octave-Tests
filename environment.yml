@@ -10,3 +10,5 @@ dependencies:
   # For compiling the Octave ``control`` and ``signal`` packages
   - compilers
   - make
+  - io
+  - image
