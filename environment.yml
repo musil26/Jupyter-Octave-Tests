@@ -1,5 +1,5 @@
 dependencies:
   - octave_kernel
   # Set the memory limit to 4GB
- limits:
+limits:
   memory: 12G
