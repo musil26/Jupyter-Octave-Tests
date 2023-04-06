@@ -1,5 +1,4 @@
-libgl1-mesa-dev
-xvfb
+octave
 gnuplot
 liboctave-dev
 octave-io
